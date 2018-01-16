@@ -1,11 +1,11 @@
-es
-lib
-dist
-dist_html
-_dist
-_package
-www
-run
+# npm do not ignore es
+# npm do not ignore lib
+# npm do not ignore dist
+# npm do not ignore dist_html
+# npm do not ignore _dist
+# npm do not ignore _package
+# npm do not ignore www
+# npm do not ignore run
 
 .history
 .idea

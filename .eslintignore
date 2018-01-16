@@ -1,0 +1,10 @@
+# see (Ignoring Files and Directories)[http://eslint.org/docs/user-guide/configuring#ignoring-files-and-directories]
+# Ignore patterns behave according to the .gitignore [specification](http://git-scm.com/docs/gitignore)
+# ESLint always ignores files in /node_modules/* and /bower_components/*
+
+es
+www
+dist
+dist_html
+
+!**/.*.js

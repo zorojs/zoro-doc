@@ -1,0 +1,8 @@
+node_modules
+
+es
+www
+dist
+dist_html
+
+!**/.*.js
